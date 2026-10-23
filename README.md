@@ -1,21 +1,21 @@
-Hi there, I'm Ravuri Prathyusha! 👋
-👩‍💻 Aspiring Software Engineer | CSE (AI & ML) Student
+Hi there, I'm Ravuri Prathyusha
+ Aspiring Software Engineer | CSE (AI & ML) Student
 
-Welcome to my GitHub profile! 🚀
+Welcome to my GitHub profile! 
 
 I'm Ravuri Prathyusha, currently pursuing my 2nd year of B.Tech in Computer Science and Engineering (Artificial Intelligence & Machine Learning) at QIS College of Engineering and Technology.
 
-I'm passionate about technology, programming, problem-solving, and exploring the world of Artificial Intelligence. My goal is to become a Software Engineer and build innovative solutions that make a difference. 💻✨
+I'm passionate about technology, programming, problem-solving, and exploring the world of Artificial Intelligence. My goal is to become a Software Engineer and build innovative solutions that make a difference. 
 
-🎓 About Me
-🎓 Pursuing B.Tech 2nd Year in CSE (AI & ML)
-🏫 QIS College of Engineering and Technology
-🎯 Career Goal: To become a Software Engineer
-🌱 Currently learning programming, Data Structures & Algorithms, and software development
-🤖 Interested in Artificial Intelligence and Machine Learning
-💡 I enjoy learning new technologies and improving my coding skills
-🚀 Believe in learning, building, and growing every day!
-🛠️ Skills & Technologies
+. About Me
+. Pursuing B.Tech 2nd Year in CSE (AI & ML)
+. QIS College of Engineering and Technology
+. Career Goal: To become a Software Engineer
+. Currently learning programming, Data Structures & Algorithms, and software development
+. Interested in Artificial Intelligence and Machine Learning
+. I enjoy learning new technologies and improving my coding skills
+. Believe in learning, building, and growing every day!
+. Skills & Technologies
 
 Programming Languages
 
@@ -39,7 +39,7 @@ Tools
 
 Git & GitHub
 Visual Studio Code
-📌 My Goals
+. My Goals
 Strengthen my programming fundamentals
 Practice Data Structures & Algorithms
 Build real-world projects
@@ -51,7 +51,7 @@ Become a skilled Software Engineer
 
 🔹 Coming Soon! — I'm working towards building projects that showcase my skills and learning journey.
 
-Stay tuned for updates! 🚀
+Stay tuned for updates! 
 
 📊 GitHub Journey
 
