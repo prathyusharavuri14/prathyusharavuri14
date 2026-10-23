@@ -60,9 +60,9 @@ I use GitHub to document my learning, share projects, and track my progress as a
 !GitHub Profile Views
 
 🤝 Connect With Me
-💻 GitHub: @YOUR_GITHUB_USERNAME
-💼 LinkedIn: Add your LinkedIn profile
-📧 Email: Add your professional email address
+💻 GitHub: prathyusharavuri14
+💼 LinkedIn: Prathyusha Ravuri
+📧 Email: prathyusharavuri14@gmail.com
 ✨ My Motto
 "Every expert was once a beginner. Keep learning, keep building, and never stop growing!"
 
